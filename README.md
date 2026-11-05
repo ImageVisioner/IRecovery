@@ -1,4 +1,4 @@
 # IRecovery
-An imaging method  that helps restore missing pixels in infrared images!!!  
+An imaging pipeline  that helps restore missing pixels in infrared images
 
 Come soon!
